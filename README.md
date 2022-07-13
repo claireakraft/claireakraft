@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @claireakraft
 - 👀 I’m interested in ... learning more about programing!
-- 🌱 I’m currently learning ... Biomedical engineering at Marquette Univeristy (C+,java)
+- 🌱 I’m currently learning ... Biomedical engineering at Marquette Univeristy (C,java, Python)
 - 💞️ I’m looking to collaborate on ... software relating to healthcare 
 - 📫 How to reach me ... kraftclaire125@gmail.com
 
